@@ -1,0 +1,25 @@
+sign up(uye kaydi username,email,password,remember me,sign in);
+login (username,password (jwt));
+admin page design
+     . Dashboard
+     .navbar
+     .sidebar
+     .header
+     .footer
+     .menu
+     .body
+         ..first part (view,rated this app,downloaded,visitors);
+         ..top rated item;
+         ..users of product;
+         ..categories;
+         ..top category;
+         ..Recently Viewed Items;
+         
+         
+
+
+
+
+         
+
+
